@@ -1,0 +1,6 @@
+{
+  "name": "Base64 Image Tool",
+  "description": "Offline image to Base64 and Base64 to image converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
